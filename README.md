@@ -14,12 +14,12 @@ Currently [jmeter](charts/jmeter) helm chart deploy:
 ## Installation
 Using helm repo:
 ```
-helm repo add k8s-jmeter https://kaarolch.github.io/kubernetes-jmeter/charts/
+helm repo add k8s-jmeter https://Radgirl-coder.github.io/kubernetes-jmeter/charts/
 ```
 
 Old way: Using local copy of git repository:
 ```
-git clone git@github.com:kaarolch/kubernetes-jmeter.git
+git clone git@github.com:Radgirl-coder/jmeter.git
 cd kubernetes-jmeter/charts/jmeter
 helm install -n test ./
 ```
